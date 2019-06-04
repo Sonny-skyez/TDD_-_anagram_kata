@@ -7,3 +7,7 @@ def test_initial():
 
 def test_not_anagram():
     assert not is_anagram('test', 'not test')
+
+
+def test_real_anagram():
+    assert is_anagram('test', 'tets')
