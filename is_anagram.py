@@ -1,2 +1,2 @@
-def is_anagram(*args):
-    return True
+def is_anagram(message1, message2):
+    return message1 == message2
