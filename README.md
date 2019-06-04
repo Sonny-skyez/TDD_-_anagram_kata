@@ -1,4 +1,4 @@
-# TDD - Anagram kata
+# TDD - anagram kata
 
 This repository is a simple **Test Driven Development** kata. The main goal is to write function that checks is given parameters are anagrams. It uses **red, green, refactor** metodology:
 - **RED:** write test that won't pass,
@@ -6,7 +6,7 @@ This repository is a simple **Test Driven Development** kata. The main goal is t
 - **REFACTOR:** simplify the code, improve it's quality.
 
 I've used **Python** language and **Pytest** framework with unit test parametrization to complete that task.
-
+New tests, code development and all baby-steps are shown clearly in repository commits.
 
 ## Installation
 
